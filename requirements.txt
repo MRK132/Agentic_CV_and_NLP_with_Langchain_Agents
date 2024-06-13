@@ -1,0 +1,15 @@
+faiss-cpu==1.7.4
+huggingface-hub==0.17.3
+langchain==0.0.330
+matplotlib==3.8.0
+numpy==1.26.0
+openai==0.28.1
+pandas==2.1.1
+Pillow==10.0.1
+timm==0.9.9
+tokenizers==0.14.1
+torch==2.0.1
+torchvision==0.15.2
+tornado==6.3.3
+tqdm==4.66.1
+transformers==4.35.0
